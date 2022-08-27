@@ -1,0 +1,27 @@
+{
+  "name": "proyek3_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RezkyAzhar/Proyek3_Node.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RezkyAzhar/Proyek3_Node.js/issues"
+  },
+  "homepage": "https://github.com/RezkyAzhar/Proyek3_Node.js#readme",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "express": "^4.16.4",
+    "hbs": "^4.0.1",
+    "request": "^2.88.0",
+    "validator": "^13.7.0",
+    "yargs": "^17.5.1"
+  }
+}
